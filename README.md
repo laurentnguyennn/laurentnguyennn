@@ -2,7 +2,7 @@
 
 **Finance & Data Science** | BBA Finance (UCO Angers) | Seeking MSc in Finance
 
-I build quantitative research pipelines that bridge financial theory with modern data science — from GARCH volatility modeling and portfolio optimization to machine learning forecasting and stress testing.
+I build quantitative project pipelines that bridge financial theory with modern data science — from GARCH volatility modeling and portfolio optimization to machine learning forecasting and stress testing.
 
 ---
 
